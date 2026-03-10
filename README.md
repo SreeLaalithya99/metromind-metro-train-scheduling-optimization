@@ -1,3 +1,6 @@
+## Prototype Implementation
+
+This project demonstrates a prototype implementation of an AI-assisted metro train scheduling system using optimization techniques. The system models train-slot allocation as a Mixed Integer Linear Programming problem and generates an optimized schedule based on defined constraints.
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Optimization](https://img.shields.io/badge/Optimization-MILP-green)
 ![Framework](https://img.shields.io/badge/Dashboard-Streamlit-red)
