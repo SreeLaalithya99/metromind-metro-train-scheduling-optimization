@@ -32,15 +32,27 @@ Visualization Dashboard (Streamlit)
 - PuLP (Optimization Solver)  
 - XGBoost  
 - Streamlit  
-- Pandas  
+- Pandas
+
+---  
+
+## How to Run
+
+pip install streamlit pulp pandas
+
+cd app
+streamlit run scheduling_dashboard.py
 
 ---
+
 ## Results
 
 • Improved scheduling efficiency by ~30% in simulation  
 • Reduced manual planning intervention  
 • Generated optimized train-slot allocation
+
 ---
+
 ## Project Structure
 
 data/ – sample train scheduling dataset  
