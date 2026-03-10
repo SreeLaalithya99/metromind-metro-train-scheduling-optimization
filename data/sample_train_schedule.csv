@@ -1,0 +1,4 @@
+train_id,arrival_time,platform
+Train_A,08:00,1
+Train_B,08:10,2
+Train_C,08:20,3
