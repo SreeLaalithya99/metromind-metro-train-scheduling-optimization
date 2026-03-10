@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Optimization](https://img.shields.io/badge/Optimization-MILP-green)
+![Framework](https://img.shields.io/badge/Dashboard-Streamlit-red)
 # metromind-metro-train-scheduling-optimization
 AI-driven metro train induction planning and scheduling using Mixed Integer Linear Programming and predictive analytics.
 # MetroMind – Metro Train Scheduling Optimization
