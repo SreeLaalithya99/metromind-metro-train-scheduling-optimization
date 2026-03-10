@@ -23,7 +23,11 @@ Optimization Model (MILP using PuLP)
 Optimized Train Scheduling  
 ↓  
 Visualization Dashboard (Streamlit)
+## Dashboard Preview
 
+Below is a preview of the MetroMind scheduling dashboard:
+
+![MetroMind Dashboard](metromind_dashboard.png)
 ---
 
 ## Technologies Used
